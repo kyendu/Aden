@@ -1,174 +1,167 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <team>
-	<name>Vistamora</name>
-	<goalRating>14</goalRating>
-	<formation>4-3-3</formation>
-	<strategy>Aggressive</strategy>
+	<name>Hijad</name>
+	<goalRating>10</goalRating>
+	<formation>3-4-3</formation>
+	<strategy>Normal</strategy>
 	<halfStats>
-		<attempts>11</attempts>
-		<defensiveAttempts>-5</defensiveAttempts>
-		<defensiveShotsOnGoal>-4</defensiveShotsOnGoal>
+		<attempts>16</attempts>
+		<defensiveAttempts>-2</defensiveAttempts>
+		<defensiveShotsOnGoal>-1</defensiveShotsOnGoal>
 	</halfStats>
 	<halfStats>
 		<attempts>19</attempts>
-		<defensiveAttempts>-3</defensiveAttempts>
-		<defensiveShotsOnGoal>-2</defensiveShotsOnGoal>
+		<defensiveAttempts>+4</defensiveAttempts>
+		<defensiveShotsOnGoal>+2</defensiveShotsOnGoal>
 	</halfStats>
 	<players>
 		<player>
-			<name>Alfaro</name>
-			<shotRange>1-59</shotRange>
-			<goal>4-10</goal>
-			<injury>1-5</injury>
+			<name>Ksikes</name>
+			<shotRange>1-80</shotRange>
+			<goal>6-10</goal>
+			<injury>1-10</injury>
 			<multiplier>1</multiplier>
 		</player>
 		<player>
-			<name>Eliosi</name>
-			<shotRange>60-71</shotRange>
-			<goal>4-10</goal>
-			<injury>1-7</injury>
-			<multiplier>4</multiplier>
+			<name>Benchemsi</name>
+			<shotRange>81</shotRange>
+			<goal>8-10</goal>
+			<injury>11-16</injury>
+			<multiplier>1</multiplier>
 		</player>
 		<player>
-			<name>Desclot</name>
-			<shotRange>72-83</shotRange>
-			<goal>6-10</goal>
-			<injury>11-15</injury>
+			<name>Chafik</name>
+			<shotRange>82</shotRange>
+			<goal>8-10</goal>
+			<injury>17-21</injury>
 			<multiplier>0</multiplier>
 		</player>
 		<player>
-			<name>Ermengol</name>
-			<shotRange>84</shotRange>
-			<goal>7-10</goal>
-			<injury>16-26</injury>
+			<name>Abouzeid</name>
+			<shotRange>83</shotRange>
+			<goal>8-10</goal>
+			<injury>22-30</injury>
 			<multiplier>0</multiplier>
 		</player>
 		<player>
-			<name>Font</name>
+			<name>Barka</name>
 			<shotRange>85</shotRange>
 			<goal>8-10</goal>
-			<injury>27-31</injury>
+			<injury>31-36</injury>
 			<multiplier>0</multiplier>
 		</player>
 		<player>
-			<name>March</name>
+			<name>Mohammed</name>
 			<shotRange>86</shotRange>
-			<goal>8-10</goal>
-			<injury>32-36</injury>
-			<multiplier>0</multiplier>
-		</player>
-		<player>
-			<name>Noguera</name>
-			<shotRange>87</shotRange>
-			<goal>8-10</goal>
-			<injury>37-41</injury>
-			<multiplier>0</multiplier>
-		</player>
-		<player>
-			<name>Martonell</name>
-			<shotRange>88</shotRange>
-			<goal>8-10</goal>
-			<injury>42-52</injury>
-			<multiplier>0</multiplier>
-		</player>
-		<player>
-			<name>Castellblanc</name>
-			<shotRange>89</shotRange>
-			<goal>8-10</goal>
-			<injury>53-54</injury>
-			<multiplier>0</multiplier>
-		</player>
-		<player>
-			<name>Miro</name>
-			<shotRange>90</shotRange>
 			<goal>9-10</goal>
-			<injury>55-59</injury>
-			<multiplier>1</multiplier>
+			<injury>37-46</injury>
+			<multiplier>0</multiplier>
 		</player>
 		<player>
-			<name>Alos</name>
+			<name>Tabbal</name>
+			<shotRange>87</shotRange>
+			<goal>9-10</goal>
+			<injury>47-52</injury>
+			<multiplier>0</multiplier>
+		</player>
+		<player>
+			<name>Chaoui</name>
+			<shotRange>88</shotRange>
+			<goal>10</goal>
+			<injury>53-58</injury>
+			<multiplier>0</multiplier>
+		</player>
+		<player>
+			<name>Elalamy</name>
+			<shotRange>90</shotRange>
+			<goal>10</goal>
+			<injury>59-64</injury>
+			<multiplier>0</multiplier>
+		</player>
+		<player>
+			<name>Tazi</name>
 			<shotRange>91</shotRange>
 			<goal>10</goal>
-			<injury>60-70</injury>
+			<injury>65-70</injury>
 			<multiplier>0</multiplier>
 		</player>
 		<player>
-			<name>Rosello</name>
+			<name>Oufkir</name>
 			<shotRange>92</shotRange>
 			<goal>10</goal>
-			<injury>71-75</injury>
+			<injury>71-76</injury>
 			<multiplier>0</multiplier>
 		</player>
 		<player>
-			<name>Alcala</name>
+			<name>Bendahan</name>
 			<shotRange>93</shotRange>
 			<goal>10</goal>
-			<injury>76-78</injury>
+			<injury>77-79</injury>
 			<multiplier>0</multiplier>
 		</player>
 		<player>
-			<name>Prat</name>
+			<name>Idrissi</name>
 			<shotRange>94</shotRange>
 			<goal>10</goal>
-			<injury>79-81</injury>
+			<injury>80-82</injury>
 			<multiplier>0</multiplier>
 		</player>
 		<player>
-			<name>Lagos</name>
+			<name>Azaykou</name>
 			<shotRange>95</shotRange>
 			<goal>10</goal>
-			<injury>82-83</injury>
+			<injury>83-85</injury>
 			<multiplier>0</multiplier>
 		</player>
 		<player>
-			<name>Cabra</name>
+			<name>Zniber</name>
 			<shotRange>96</shotRange>
 			<goal>10</goal>
-			<injury>84-85</injury>
+			<injury>86</injury>
 			<multiplier>0</multiplier>
 		</player>
 		<player>
-			<name>Planas</name>
+			<name>Bourequat</name>
 			<shotRange>97</shotRange>
 			<goal>10</goal>
-			<injury>86-87</injury>
+			<injury>87</injury>
 			<multiplier>0</multiplier>
 		</player>
 		<player>
-			<name>Gualba</name>
+			<name>Saqqat</name>
 			<shotRange>98</shotRange>
 			<goal>10</goal>
-			<injury>88-89</injury>
+			<injury>88</injury>
 			<multiplier>0</multiplier>
 		</player>
 		<player>
-			<name>Torquelles</name>
+			<name>Al-Aziz</name>
 			<shotRange>99</shotRange>
 			<goal>10</goal>
-			<injury>90-91</injury>
+			<injury>89</injury>
 			<multiplier>0</multiplier>
 		</player>
 		<player>
-			<name>Noves</name>
+			<name>Guennon</name>
 			<shotRange>100</shotRange>
 			<goal>10</goal>
-			<injury>92</injury>
+			<injury>90</injury>
 			<multiplier>0</multiplier>
 		</player>
 		<goalie>
-			<name>Claver</name>
-			<rating>-2</rating>
-			<injury>93-99</injury>
-			<multiplier>2</multiplier>
-		</goalie>
-		<goalie>
-			<name>Ena</name>
-			<rating>0</rating>
-			<injury>100</injury>
+			<name>Samie</name>
+			<rating>-1</rating>
+			<injury>91-98</injury>
 			<multiplier>0</multiplier>
 		</goalie>
 		<goalie>
-			<name>Aznar</name>
+			<name>Lahbibi</name>
+			<rating>0</rating>
+			<injury>99-100</injury>
+			<multiplier>0</multiplier>
+		</goalie>
+		<goalie>
+			<name>Assaraf</name>
 			<rating>+1</rating>
 			<injury>x</injury>
 			<multiplier>0</multiplier>
