@@ -1,167 +1,168 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <team>
-	<name>Guanah</name>
-	<goalRating>25</goalRating>
-	<formation>4-4-2</formation>
-	<strategy>Normal</strategy>
+	<name>Kureie</name>
+	<goalRating>21</goalRating>
+	<formation>3-4-3</formation>
+	<strategy>Aggressive</strategy>
 	<halfStats>
-		<attempts>8</attempts>
-		<defensiveAttempts>-4</defensiveAttempts>
-		<defensiveShotsOnGoal>-2</defensiveShotsOnGoal>
+		<attempts>10</attempts>
+		<defensiveAttempts>-3</defensiveAttempts>
+		<defensiveShotsOnGoal>-1</defensiveShotsOnGoal>
 	</halfStats>
 	<halfStats>
-		<attempts>8</attempts>
-		<defensiveAttempts>-2</defensiveAttempts>
-		<defensiveShotsOnGoal>-2</defensiveShotsOnGoal>
+		<attempts>20</attempts>
+		<defensiveAttempts>0</defensiveAttempts>
+		<defensiveShotsOnGoal>0</defensiveShotsOnGoal>
 	</halfStats>
 	<players>
 		<player>
-			<name>D'Ferdi</name>
-			<shotRange>1-42</shotRange>
-			<goal>8-10</goal>
-			<injury>13-19</injury>
-			<multiplier>4</multiplier>
-		</player>
-		<player>
-			<name>Z'Essan</name>
-			<shotRange>33-51</shotRange>
+			<name>Mahmud</name>
+			<shotRange>1-47</shotRange>
 			<goal>4-10</goal>
-			<injury>4-6</injury>
+			<injury>1-8</injury>
 			<multiplier>2</multiplier>
 		</player>
 		<player>
-			<name>N'Eyu</name>
-			<shotRange>84</shotRange>
-			<goal>4-10</goal>
-			<injury>1-7</injury>
+			<name>Dallal</name>
+			<shotRange>48-66</shotRange>
+			<goal>5-10</goal>
+			<injury>9-16</injury>
 			<multiplier>0</multiplier>
 		</player>
 		<player>
-			<name>V'Kyed</name>
+			<name>Basa</name>
+			<shotRange>67-75</shotRange>
+			<goal>6-10</goal>
+			<injury>17-24</injury>
+			<multiplier>0</multiplier>
+		</player>
+		<player>
+			<name>Malak</name>
+			<shotRange>76-84</shotRange>
+			<goal>6-10</goal>
+			<injury>25-32</injury>
+			<multiplier>0</multiplier>
+		</player>
+		<player>
+			<name>Amir</name>
 			<shotRange>85</shotRange>
 			<goal>8-10</goal>
-			<injury>20-26</injury>
+			<injury>33-40</injury>
 			<multiplier>0</multiplier>
 		</player>
 		<player>
-			<name>W'Iopa</name>
+			<name>Jaber</name>
 			<shotRange>86</shotRange>
 			<goal>8-10</goal>
-			<injury>27-33</injury>
+			<injury>41-48</injury>
 			<multiplier>0</multiplier>
 		</player>
 		<player>
-			<name>B'Vinda</name>
+			<name>Ameen</name>
 			<shotRange>87</shotRange>
 			<goal>8-10</goal>
-			<injury>34-38</injury>
+			<injury>49-56</injury>
 			<multiplier>0</multiplier>
 		</player>
 		<player>
-			<name>K'Rimb</name>
+			<name>Hassan</name>
 			<shotRange>88</shotRange>
-			<goal>8-10</goal>
-			<injury>39-43</injury>
-			<multiplier>0</multiplier>
-		</player>
-		<player>
-			<name>H'Zues</name>
-			<shotRange>89</shotRange>
 			<goal>9-10</goal>
-			<injury>44-57</injury>
+			<injury>57-64</injury>
 			<multiplier>0</multiplier>
 		</player>
 		<player>
-			<name>Pogba</name>
+			<name>Zaki</name>
+			<shotRange>89</shotRange>
+			<goal>10</goal>
+			<injury>65-72</injury>
+			<multiplier>0</multiplier>
+		</player>
+		<player>
+			<name>Farra</name>
 			<shotRange>90</shotRange>
 			<goal>10</goal>
-			<injury>2-4</injury>
-			<multiplier>4</multiplier>
+			<injury>73-80</injury>
+			<multiplier>0</multiplier>
 		</player>
 		<player>
-			<name>B'Nenes</name>
+			<name>Amir</name>
 			<shotRange>91</shotRange>
 			<goal>10</goal>
-			<injury>65-71</injury>
+			<injury>81-82</injury>
 			<multiplier>0</multiplier>
 		</player>
 		<player>
-			<name>R'Haduk</name>
+			<name>Momin</name>
 			<shotRange>92</shotRange>
 			<goal>10</goal>
-			<injury>72-76</injury>
+			<injury>83-84</injury>
 			<multiplier>0</multiplier>
 		</player>
 		<player>
-			<name>P'Serez</name>
+			<name>Taha</name>
 			<shotRange>93</shotRange>
 			<goal>10</goal>
-			<injury>77-81</injury>
+			<injury>85</injury>
 			<multiplier>0</multiplier>
 		</player>
 		<player>
-			<name>M'Niang</name>
+			<name>Javid</name>
 			<shotRange>94</shotRange>
 			<goal>10</goal>
-			<injury>82-84</injury>
+			<injury>86</injury>
 			<multiplier>0</multiplier>
 		</player>
 		<player>
-			<name>D'Cites</name>
+			<name>Sadri</name>
 			<shotRange>95</shotRange>
 			<goal>10</goal>
-			<injury>85-87</injury>
+			<injury>87</injury>
 			<multiplier>0</multiplier>
 		</player>
 		<player>
-			<name>Z'Alder</name>
+			<name>Nouri</name>
 			<shotRange>96</shotRange>
 			<goal>10</goal>
 			<injury>88</injury>
 			<multiplier>0</multiplier>
 		</player>
 		<player>
-			<name>D'Higan</name>
+			<name>Bari</name>
 			<shotRange>97</shotRange>
 			<goal>10</goal>
 			<injury>89</injury>
 			<multiplier>0</multiplier>
 		</player>
 		<player>
-			<name>K'Cites</name>
+			<name>Shaheen</name>
 			<shotRange>98</shotRange>
 			<goal>10</goal>
 			<injury>90</injury>
 			<multiplier>0</multiplier>
 		</player>
 		<player>
-			<name>D'Tuyo</name>
+			<name>Baig</name>
 			<shotRange>99</shotRange>
 			<goal>10</goal>
 			<injury>91</injury>
 			<multiplier>0</multiplier>
 		</player>
 		<player>
-			<name>Y'Lvey</name>
+			<name>Kazmi</name>
 			<shotRange>100</shotRange>
 			<goal>10</goal>
 			<injury>92</injury>
 			<multiplier>0</multiplier>
 		</player>
 		<goalie>
-			<name>V'Eser</name>
-			<rating>0</rating>
-			<injury>94-98</injury>
-			<multiplier>0</multiplier>
+			<name>Mohiuddin</name>
+			<rating>+1</rating>
+			<injury>93-100</injury>
+			<multiplier>1</multiplier>
 		</goalie>
 		<goalie>
-			<name>K'Eren</name>
-			<rating>+2</rating>
-			<injury>x</injury>
-			<multiplier>0</multiplier>
-		</goalie>
-		<goalie>
-			<name>Z'Yeses</name>
+			<name>Tariq</name>
 			<rating>+2</rating>
 			<injury>x</injury>
 			<multiplier>0</multiplier>

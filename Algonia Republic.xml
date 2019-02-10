@@ -1,168 +1,168 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <team>
-	<name>Guanah</name>
-	<goalRating>25</goalRating>
+	<name>Algonia Republic</name>
+	<goalRating>11</goalRating>
 	<formation>4-4-2</formation>
 	<strategy>Normal</strategy>
 	<halfStats>
-		<attempts>8</attempts>
+		<attempts>16</attempts>
 		<defensiveAttempts>-4</defensiveAttempts>
 		<defensiveShotsOnGoal>-2</defensiveShotsOnGoal>
 	</halfStats>
 	<halfStats>
-		<attempts>8</attempts>
+		<attempts>16</attempts>
 		<defensiveAttempts>-2</defensiveAttempts>
 		<defensiveShotsOnGoal>-2</defensiveShotsOnGoal>
 	</halfStats>
 	<players>
 		<player>
-			<name>D'Ferdi</name>
+			<name>Atakan</name>
 			<shotRange>1-42</shotRange>
-			<goal>8-10</goal>
-			<injury>13-19</injury>
-			<multiplier>4</multiplier>
-		</player>
-		<player>
-			<name>Z'Essan</name>
-			<shotRange>33-51</shotRange>
-			<goal>4-10</goal>
-			<injury>4-6</injury>
-			<multiplier>2</multiplier>
-		</player>
-		<player>
-			<name>N'Eyu</name>
-			<shotRange>84</shotRange>
-			<goal>4-10</goal>
+			<goal>6-10</goal>
 			<injury>1-7</injury>
 			<multiplier>0</multiplier>
 		</player>
 		<player>
-			<name>V'Kyed</name>
+			<name>Emir</name>
+			<shotRange>43-83</shotRange>
+			<goal>6-10</goal>
+			<injury>8-12</injury>
+			<multiplier>0</multiplier>
+		</player>
+		<player>
+			<name>Ferhan</name>
+			<shotRange>84</shotRange>
+			<goal>8-10</goal>
+			<injury>13-19</injury>
+			<multiplier>1</multiplier>
+		</player>
+		<player>
+			<name>Dogukan</name>
 			<shotRange>85</shotRange>
 			<goal>8-10</goal>
 			<injury>20-26</injury>
 			<multiplier>0</multiplier>
 		</player>
 		<player>
-			<name>W'Iopa</name>
+			<name>Kayahan</name>
 			<shotRange>86</shotRange>
 			<goal>8-10</goal>
 			<injury>27-33</injury>
 			<multiplier>0</multiplier>
 		</player>
 		<player>
-			<name>B'Vinda</name>
+			<name>Aydin</name>
 			<shotRange>87</shotRange>
 			<goal>8-10</goal>
 			<injury>34-38</injury>
 			<multiplier>0</multiplier>
 		</player>
 		<player>
-			<name>K'Rimb</name>
+			<name>Firat</name>
 			<shotRange>88</shotRange>
 			<goal>8-10</goal>
 			<injury>39-43</injury>
 			<multiplier>0</multiplier>
 		</player>
 		<player>
-			<name>H'Zues</name>
+			<name>Mirata</name>
 			<shotRange>89</shotRange>
 			<goal>9-10</goal>
 			<injury>44-57</injury>
 			<multiplier>0</multiplier>
 		</player>
 		<player>
-			<name>Pogba</name>
+			<name>Mevlut</name>
 			<shotRange>90</shotRange>
 			<goal>10</goal>
-			<injury>2-4</injury>
-			<multiplier>4</multiplier>
+			<injury>58-64</injury>
+			<multiplier>0</multiplier>
 		</player>
 		<player>
-			<name>B'Nenes</name>
+			<name>Erkan</name>
 			<shotRange>91</shotRange>
 			<goal>10</goal>
 			<injury>65-71</injury>
 			<multiplier>0</multiplier>
 		</player>
 		<player>
-			<name>R'Haduk</name>
+			<name>Aziz</name>
 			<shotRange>92</shotRange>
 			<goal>10</goal>
 			<injury>72-76</injury>
 			<multiplier>0</multiplier>
 		</player>
 		<player>
-			<name>P'Serez</name>
+			<name>Cem</name>
 			<shotRange>93</shotRange>
 			<goal>10</goal>
 			<injury>77-81</injury>
 			<multiplier>0</multiplier>
 		</player>
 		<player>
-			<name>M'Niang</name>
+			<name>Serdar</name>
 			<shotRange>94</shotRange>
 			<goal>10</goal>
 			<injury>82-84</injury>
 			<multiplier>0</multiplier>
 		</player>
 		<player>
-			<name>D'Cites</name>
+			<name>Elvan</name>
 			<shotRange>95</shotRange>
 			<goal>10</goal>
 			<injury>85-87</injury>
 			<multiplier>0</multiplier>
 		</player>
 		<player>
-			<name>Z'Alder</name>
+			<name>Ege</name>
 			<shotRange>96</shotRange>
 			<goal>10</goal>
 			<injury>88</injury>
 			<multiplier>0</multiplier>
 		</player>
 		<player>
-			<name>D'Higan</name>
+			<name>Fahrettin</name>
 			<shotRange>97</shotRange>
 			<goal>10</goal>
 			<injury>89</injury>
 			<multiplier>0</multiplier>
 		</player>
 		<player>
-			<name>K'Cites</name>
+			<name>Turgut</name>
 			<shotRange>98</shotRange>
 			<goal>10</goal>
 			<injury>90</injury>
 			<multiplier>0</multiplier>
 		</player>
 		<player>
-			<name>D'Tuyo</name>
+			<name>Halit</name>
 			<shotRange>99</shotRange>
 			<goal>10</goal>
 			<injury>91</injury>
 			<multiplier>0</multiplier>
 		</player>
 		<player>
-			<name>Y'Lvey</name>
+			<name>Behlil</name>
 			<shotRange>100</shotRange>
 			<goal>10</goal>
 			<injury>92</injury>
 			<multiplier>0</multiplier>
 		</player>
 		<goalie>
-			<name>V'Eser</name>
+			<name>Muhsin</name>
+			<rating>-1</rating>
+			<injury>93-98</injury>
+			<multiplier>0</multiplier>
+		</goalie>
+		<goalie>
+			<name>Fikri</name>
 			<rating>0</rating>
-			<injury>94-98</injury>
+			<injury>99-100</injury>
 			<multiplier>0</multiplier>
 		</goalie>
 		<goalie>
-			<name>K'Eren</name>
-			<rating>+2</rating>
-			<injury>x</injury>
-			<multiplier>0</multiplier>
-		</goalie>
-		<goalie>
-			<name>Z'Yeses</name>
-			<rating>+2</rating>
+			<name>Durukan</name>
+			<rating>+1</rating>
 			<injury>x</injury>
 			<multiplier>0</multiplier>
 		</goalie>

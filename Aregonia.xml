@@ -1,167 +1,167 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <team>
-	<name>Guanah</name>
-	<goalRating>25</goalRating>
+	<name>Aregonia</name>
+	<goalRating>20</goalRating>
 	<formation>4-4-2</formation>
 	<strategy>Normal</strategy>
 	<halfStats>
-		<attempts>8</attempts>
-		<defensiveAttempts>-4</defensiveAttempts>
-		<defensiveShotsOnGoal>-2</defensiveShotsOnGoal>
+		<attempts>15</attempts>
+		<defensiveAttempts>-5</defensiveAttempts>
+		<defensiveShotsOnGoal>-4</defensiveShotsOnGoal>
 	</halfStats>
 	<halfStats>
-		<attempts>8</attempts>
+		<attempts>14</attempts>
 		<defensiveAttempts>-2</defensiveAttempts>
-		<defensiveShotsOnGoal>-2</defensiveShotsOnGoal>
+		<defensiveShotsOnGoal>-1</defensiveShotsOnGoal>
 	</halfStats>
 	<players>
 		<player>
-			<name>D'Ferdi</name>
-			<shotRange>1-42</shotRange>
-			<goal>8-10</goal>
-			<injury>13-19</injury>
-			<multiplier>4</multiplier>
-		</player>
-		<player>
-			<name>Z'Essan</name>
-			<shotRange>33-51</shotRange>
+			<name>Hattingh</name>
+			<shotRange>1-29</shotRange>
 			<goal>4-10</goal>
-			<injury>4-6</injury>
-			<multiplier>2</multiplier>
+			<injury>1-15</injury>
+			<multiplier>1</multiplier>
 		</player>
 		<player>
-			<name>N'Eyu</name>
-			<shotRange>84</shotRange>
+			<name>Grobbelaar</name>
+			<shotRange>30-52</shotRange>
 			<goal>4-10</goal>
-			<injury>1-7</injury>
+			<injury>16-25</injury>
+			<multiplier>1</multiplier>
+		</player>
+		<player>
+			<name>Cohen</name>
+			<shotRange>53-69</shotRange>
+			<goal>5-10</goal>
+			<injury>26-30</injury>
+			<multiplier>1</multiplier>
+		</player>
+		<player>
+			<name>Van Schoor</name>
+			<shotRange>70-75</shotRange>
+			<goal>6-10</goal>
+			<injury>31-40</injury>
 			<multiplier>0</multiplier>
 		</player>
 		<player>
-			<name>V'Kyed</name>
-			<shotRange>85</shotRange>
-			<goal>8-10</goal>
-			<injury>20-26</injury>
+			<name>Vollenhoven</name>
+			<shotRange>76-81</shotRange>
+			<goal>6-10</goal>
+			<injury>41</injury>
 			<multiplier>0</multiplier>
 		</player>
 		<player>
-			<name>W'Iopa</name>
-			<shotRange>86</shotRange>
-			<goal>8-10</goal>
-			<injury>27-33</injury>
+			<name>Coetsee</name>
+			<shotRange>82-87</shotRange>
+			<goal>6-10</goal>
+			<injury>42-46</injury>
 			<multiplier>0</multiplier>
 		</player>
 		<player>
-			<name>B'Vinda</name>
-			<shotRange>87</shotRange>
-			<goal>8-10</goal>
-			<injury>34-38</injury>
-			<multiplier>0</multiplier>
-		</player>
-		<player>
-			<name>K'Rimb</name>
+			<name>Fouche</name>
 			<shotRange>88</shotRange>
 			<goal>8-10</goal>
-			<injury>39-43</injury>
+			<injury>47</injury>
 			<multiplier>0</multiplier>
 		</player>
 		<player>
-			<name>H'Zues</name>
+			<name>Kamark</name>
 			<shotRange>89</shotRange>
-			<goal>9-10</goal>
-			<injury>44-57</injury>
+			<goal>8-10</goal>
+			<injury>48-49</injury>
 			<multiplier>0</multiplier>
 		</player>
 		<player>
-			<name>Pogba</name>
+			<name>Zietsman</name>
 			<shotRange>90</shotRange>
-			<goal>10</goal>
-			<injury>2-4</injury>
-			<multiplier>4</multiplier>
+			<goal>9-10</goal>
+			<injury>50-54</injury>
+			<multiplier>1</multiplier>
 		</player>
 		<player>
-			<name>B'Nenes</name>
+			<name>Brits</name>
 			<shotRange>91</shotRange>
 			<goal>10</goal>
-			<injury>65-71</injury>
+			<injury>55</injury>
 			<multiplier>0</multiplier>
 		</player>
 		<player>
-			<name>R'Haduk</name>
+			<name>Morkel</name>
 			<shotRange>92</shotRange>
 			<goal>10</goal>
-			<injury>72-76</injury>
+			<injury>56</injury>
 			<multiplier>0</multiplier>
 		</player>
 		<player>
-			<name>P'Serez</name>
+			<name>Smuts</name>
 			<shotRange>93</shotRange>
 			<goal>10</goal>
-			<injury>77-81</injury>
+			<injury>57-71</injury>
 			<multiplier>0</multiplier>
 		</player>
 		<player>
-			<name>M'Niang</name>
+			<name>Blaauw</name>
 			<shotRange>94</shotRange>
 			<goal>10</goal>
-			<injury>82-84</injury>
+			<injury>72-86</injury>
 			<multiplier>0</multiplier>
 		</player>
 		<player>
-			<name>D'Cites</name>
+			<name>Theron</name>
 			<shotRange>95</shotRange>
 			<goal>10</goal>
-			<injury>85-87</injury>
+			<injury>87-88</injury>
 			<multiplier>0</multiplier>
 		</player>
 		<player>
-			<name>Z'Alder</name>
+			<name>Hanekom</name>
 			<shotRange>96</shotRange>
 			<goal>10</goal>
-			<injury>88</injury>
+			<injury>89-90</injury>
 			<multiplier>0</multiplier>
 		</player>
 		<player>
-			<name>D'Higan</name>
+			<name>Titus</name>
 			<shotRange>97</shotRange>
 			<goal>10</goal>
-			<injury>89</injury>
+			<injury>91-92</injury>
 			<multiplier>0</multiplier>
 		</player>
 		<player>
-			<name>K'Cites</name>
+			<name>Thompson</name>
 			<shotRange>98</shotRange>
 			<goal>10</goal>
-			<injury>90</injury>
+			<injury>93-94</injury>
 			<multiplier>0</multiplier>
 		</player>
 		<player>
-			<name>D'Tuyo</name>
+			<name>Groenewald</name>
 			<shotRange>99</shotRange>
 			<goal>10</goal>
-			<injury>91</injury>
+			<injury>95</injury>
 			<multiplier>0</multiplier>
 		</player>
 		<player>
-			<name>Y'Lvey</name>
+			<name>Fortuin</name>
 			<shotRange>100</shotRange>
 			<goal>10</goal>
-			<injury>92</injury>
+			<injury>96</injury>
 			<multiplier>0</multiplier>
 		</player>
 		<goalie>
-			<name>V'Eser</name>
+			<name>Marshall</name>
 			<rating>0</rating>
-			<injury>94-98</injury>
+			<injury>97-98</injury>
+			<multiplier>1</multiplier>
+		</goalie>
+		<goalie>
+			<name>Watson</name>
+			<rating>+1</rating>
+			<injury>99-100</injury>
 			<multiplier>0</multiplier>
 		</goalie>
 		<goalie>
-			<name>K'Eren</name>
-			<rating>+2</rating>
-			<injury>x</injury>
-			<multiplier>0</multiplier>
-		</goalie>
-		<goalie>
-			<name>Z'Yeses</name>
+			<name>Botha</name>
 			<rating>+2</rating>
 			<injury>x</injury>
 			<multiplier>0</multiplier>

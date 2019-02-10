@@ -1,170 +1,170 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <team>
-	<name>Guanah</name>
-	<goalRating>25</goalRating>
-	<formation>4-4-2</formation>
+	<name>Carribean Islands</name>
+	<goalRating>30</goalRating>
+	<formation>3-4-3</formation>
 	<strategy>Normal</strategy>
 	<halfStats>
-		<attempts>8</attempts>
-		<defensiveAttempts>-4</defensiveAttempts>
-		<defensiveShotsOnGoal>-2</defensiveShotsOnGoal>
+		<attempts>19</attempts>
+		<defensiveAttempts>-5</defensiveAttempts>
+		<defensiveShotsOnGoal>-3</defensiveShotsOnGoal>
 	</halfStats>
 	<halfStats>
-		<attempts>8</attempts>
+		<attempts>7</attempts>
 		<defensiveAttempts>-2</defensiveAttempts>
-		<defensiveShotsOnGoal>-2</defensiveShotsOnGoal>
+		<defensiveShotsOnGoal>-1</defensiveShotsOnGoal>
 	</halfStats>
 	<players>
 		<player>
-			<name>D'Ferdi</name>
-			<shotRange>1-42</shotRange>
-			<goal>8-10</goal>
-			<injury>13-19</injury>
+			<name>Durmaz</name>
+			<shotRange>33-52</shotRange>
+			<goal>6-10</goal>
+			<injury>1-3</injury>
 			<multiplier>4</multiplier>
 		</player>
 		<player>
-			<name>Z'Essan</name>
-			<shotRange>33-51</shotRange>
-			<goal>4-10</goal>
-			<injury>4-6</injury>
-			<multiplier>2</multiplier>
+			<name>Fardeen</name>
+			<shotRange>81</shotRange>
+			<goal>8-10</goal>
+			<injury>11-16</injury>
+			<multiplier>1</multiplier>
 		</player>
 		<player>
-			<name>N'Eyu</name>
-			<shotRange>84</shotRange>
-			<goal>4-10</goal>
-			<injury>1-7</injury>
+			<name>Jebran</name>
+			<shotRange>82</shotRange>
+			<goal>8-10</goal>
+			<injury>17-21</injury>
 			<multiplier>0</multiplier>
 		</player>
 		<player>
-			<name>V'Kyed</name>
+			<name>Manoochehr</name>
+			<shotRange>83</shotRange>
+			<goal>8-10</goal>
+			<injury>22-30</injury>
+			<multiplier>0</multiplier>
+		</player>
+		<player>
+			<name>Almas</name>
 			<shotRange>85</shotRange>
 			<goal>8-10</goal>
-			<injury>20-26</injury>
+			<injury>31-36</injury>
 			<multiplier>0</multiplier>
 		</player>
 		<player>
-			<name>W'Iopa</name>
+			<name>Pazhman</name>
 			<shotRange>86</shotRange>
-			<goal>8-10</goal>
-			<injury>27-33</injury>
-			<multiplier>0</multiplier>
-		</player>
-		<player>
-			<name>B'Vinda</name>
-			<shotRange>87</shotRange>
-			<goal>8-10</goal>
-			<injury>34-38</injury>
-			<multiplier>0</multiplier>
-		</player>
-		<player>
-			<name>K'Rimb</name>
-			<shotRange>88</shotRange>
-			<goal>8-10</goal>
-			<injury>39-43</injury>
-			<multiplier>0</multiplier>
-		</player>
-		<player>
-			<name>H'Zues</name>
-			<shotRange>89</shotRange>
 			<goal>9-10</goal>
-			<injury>44-57</injury>
+			<injury>37-46</injury>
 			<multiplier>0</multiplier>
 		</player>
 		<player>
-			<name>Pogba</name>
+			<name>Hamraz</name>
+			<shotRange>87</shotRange>
+			<goal>9-10</goal>
+			<injury>47-52</injury>
+			<multiplier>0</multiplier>
+		</player>
+		<player>
+			<name>Darwish</name>
+			<shotRange>88</shotRange>
+			<goal>10</goal>
+			<injury>53-58</injury>
+			<multiplier>0</multiplier>
+		</player>
+		<player>
+			<name>Kaawa</name>
 			<shotRange>90</shotRange>
 			<goal>10</goal>
-			<injury>2-4</injury>
-			<multiplier>4</multiplier>
+			<injury>59-64</injury>
+			<multiplier>0</multiplier>
 		</player>
 		<player>
-			<name>B'Nenes</name>
+			<name>Farzan</name>
 			<shotRange>91</shotRange>
 			<goal>10</goal>
-			<injury>65-71</injury>
+			<injury>65-70</injury>
 			<multiplier>0</multiplier>
 		</player>
 		<player>
-			<name>R'Haduk</name>
+			<name>Noorzad</name>
 			<shotRange>92</shotRange>
 			<goal>10</goal>
-			<injury>72-76</injury>
+			<injury>71-76</injury>
 			<multiplier>0</multiplier>
 		</player>
 		<player>
-			<name>P'Serez</name>
+			<name>Kamiar</name>
 			<shotRange>93</shotRange>
 			<goal>10</goal>
-			<injury>77-81</injury>
+			<injury>77-79</injury>
 			<multiplier>0</multiplier>
 		</player>
 		<player>
-			<name>M'Niang</name>
+			<name>Deldaar</name>
 			<shotRange>94</shotRange>
 			<goal>10</goal>
-			<injury>82-84</injury>
+			<injury>80-82</injury>
 			<multiplier>0</multiplier>
 		</player>
 		<player>
-			<name>D'Cites</name>
+			<name>Mehran</name>
 			<shotRange>95</shotRange>
 			<goal>10</goal>
-			<injury>85-87</injury>
+			<injury>83-85</injury>
 			<multiplier>0</multiplier>
 		</player>
 		<player>
-			<name>Z'Alder</name>
+			<name>Sarferaz</name>
 			<shotRange>96</shotRange>
+			<goal>10</goal>
+			<injury>86</injury>
+			<multiplier>0</multiplier>
+		</player>
+		<player>
+			<name>Keivan</name>
+			<shotRange>97</shotRange>
+			<goal>10</goal>
+			<injury>87</injury>
+			<multiplier>0</multiplier>
+		</player>
+		<player>
+			<name>Sarvar</name>
+			<shotRange>98</shotRange>
 			<goal>10</goal>
 			<injury>88</injury>
 			<multiplier>0</multiplier>
 		</player>
 		<player>
-			<name>D'Higan</name>
-			<shotRange>97</shotRange>
+			<name>Zaman</name>
+			<shotRange>99</shotRange>
 			<goal>10</goal>
 			<injury>89</injury>
 			<multiplier>0</multiplier>
 		</player>
 		<player>
-			<name>K'Cites</name>
-			<shotRange>98</shotRange>
+			<name>Mirjahan</name>
+			<shotRange>100</shotRange>
 			<goal>10</goal>
 			<injury>90</injury>
 			<multiplier>0</multiplier>
 		</player>
-		<player>
-			<name>D'Tuyo</name>
-			<shotRange>99</shotRange>
-			<goal>10</goal>
-			<injury>91</injury>
-			<multiplier>0</multiplier>
-		</player>
-		<player>
-			<name>Y'Lvey</name>
-			<shotRange>100</shotRange>
-			<goal>10</goal>
-			<injury>92</injury>
-			<multiplier>0</multiplier>
-		</player>
 		<goalie>
-			<name>V'Eser</name>
+			<name>Jahangir</name>
+			<rating>-1</rating>
+			<injury>91-98</injury>
+			<multiplier>0</multiplier>
+		</goalie>
+		<goalie>
+			<name>Bedar</name>
 			<rating>0</rating>
-			<injury>94-98</injury>
+			<injury>99-100</injury>
 			<multiplier>0</multiplier>
 		</goalie>
 		<goalie>
-			<name>K'Eren</name>
-			<rating>+2</rating>
+			<name>Sina</name>
+			<rating>+1</rating>
 			<injury>x</injury>
-			<multiplier>0</multiplier>
-		</goalie>
-		<goalie>
-			<name>Z'Yeses</name>
-			<rating>+2</rating>
-			<injury>x</injury>
-			<multiplier>0</multiplier>
+			<multiplier>4</multiplier>
 		</goalie>
 	</players>
 </team>
